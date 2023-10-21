@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Super constructor, if parent class constructors, the child must call the parent constructor(s)">
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PolymorphismApp.java" afterDir="false" />
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Polymorphism, define the variable using parent class but can be assigned to child classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PolymorphismApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PolymorphismApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697893094827</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Polymorphism, define the variable using parent class but can be assigned to child classes">
+      <created>1697908016972</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697908016972</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +201,7 @@
     <MESSAGE value="Method overriding" />
     <MESSAGE value="Super constructor, to access method in parent class" />
     <MESSAGE value="Super constructor, if parent class constructors, the child must call the parent constructor(s)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Super constructor, if parent class constructors, the child must call the parent constructor(s)" />
+    <MESSAGE value="Polymorphism, define the variable using parent class but can be assigned to child classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism, define the variable using parent class but can be assigned to child classes" />
   </component>
 </project>

@@ -1,10 +1,10 @@
 package belajar.programming.data;
 
 public class Product {
-    String name;
-    Integer price;
+    protected String name;
+    protected Integer price;
 
-    Product(String name, Integer price) {
+    public Product(String name, Integer price) {  // set to public so that it can be accessed from other class
         this.name = name;
         this.price = price;
     }

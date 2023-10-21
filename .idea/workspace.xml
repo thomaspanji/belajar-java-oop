@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Polymorphism, type check and casts">
-      <change afterPath="$PROJECT_DIR$/src/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParentApp.java" afterDir="false" />
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Creating packages">
+      <change afterPath="$PROJECT_DIR$/src/belajar/programming/application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/programming/data/ProductApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/programming/data/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/programming/data/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ParentApp">
+  <component name="RunManager" selected="Application.ProductApp">
     <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManagerApp" />
       <module name="belajar-java-oop" />
@@ -60,16 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersonApp" />
+    <configuration name="PolymorphismApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismApp" />
       <module name="belajar-java-oop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PolymorphismApp" />
+    <configuration name="ProductApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.programming.data.ProductApp" />
       <module name="belajar-java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belajar.programming.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductApp" />
         <item itemvalue="Application.ParentApp" />
         <item itemvalue="Application.PolymorphismApp" />
         <item itemvalue="Application.ManagerApp" />
         <item itemvalue="Application.ShapeApp" />
-        <item itemvalue="Application.PersonApp" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697908812948</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Variable hiding">
+      <created>1697910354656</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697910354656</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Creating packages">
+      <created>1697910377193</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697910377193</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +240,8 @@
     <MESSAGE value="Super constructor, if parent class constructors, the child must call the parent constructor(s)" />
     <MESSAGE value="Polymorphism, define the variable using parent class but can be assigned to child classes" />
     <MESSAGE value="Polymorphism, type check and casts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism, type check and casts" />
+    <MESSAGE value="Variable hiding" />
+    <MESSAGE value="Creating packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating packages" />
   </component>
 </project>

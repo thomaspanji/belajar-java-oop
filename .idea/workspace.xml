@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Inheritance example">
-      <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VicePresident.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VicePresident.java" afterDir="false" />
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Method overriding">
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShapeApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ManagerApp">
+  <component name="RunManager" selected="Application.ShapeApp">
     <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManagerApp" />
       <module name="belajar-java-oop" />
@@ -59,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShapeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShapeApp" />
+      <module name="belajar-java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeApp" />
         <item itemvalue="Application.ManagerApp" />
         <item itemvalue="Application.PersonApp" />
       </list>
@@ -131,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697891981060</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Method overriding">
+      <created>1697892222147</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697892222147</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +169,7 @@
     <MESSAGE value="Variable shadowing example" />
     <MESSAGE value="Variable shadowing example and how to solve it using this keyword" />
     <MESSAGE value="Inheritance example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance example" />
+    <MESSAGE value="Method overriding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method overriding" />
   </component>
 </project>

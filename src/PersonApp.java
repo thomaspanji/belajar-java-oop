@@ -4,17 +4,18 @@ public class PersonApp {
 //        Person person2 = new Person();
 //        Person person3;
 //        person3 = new Person();
+        var person2 = new Person("Otong");
+        var person3 = new Person();
+        person3.name = "Ucup";
+
 
         System.out.println(person1);
-
-//        person1.name = "Thomas Panji";
-//        person1.address = "Bandung";
 
         System.out.println(person1.name);
         System.out.println(person1.address);
         System.out.println(person1.country);
 
         person1.sayHello("Budi");
-//        person3.sayHello("Budi");
+        person3.sayHello("Otong");
     }
 }

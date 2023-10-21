@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Create method">
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Create class constructors">
       <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PersonApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonApp.java" afterDir="false" />
     </list>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697889665163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create class constructors">
+      <created>1697890092066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697890092066</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit Person" />
     <MESSAGE value="Create method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create method" />
+    <MESSAGE value="Create class constructors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create class constructors" />
   </component>
 </project>

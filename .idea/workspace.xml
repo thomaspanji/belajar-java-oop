@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Encapsulation: getter and setter">
-      <change afterPath="$PROJECT_DIR$/src/belajar/programming/data/Avanza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/programming/data/Car.java" afterDir="false" />
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Interface, when creating contract we should use this instead of abstract class">
+      <change afterPath="$PROJECT_DIR$/src/belajar/programming/data/HasBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/programming/data/IsMaintenance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/programming/application/CarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/programming/application/CarApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/programming/data/Avanza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/programming/data/Avanza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/programming/data/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/programming/data/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -270,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697912991124</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Interface, when creating contract we should use this instead of abstract class">
+      <created>1697913593888</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697913593888</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +316,7 @@
     <MESSAGE value="Abstract class: how to use the class" />
     <MESSAGE value="Abstract method: how to use it." />
     <MESSAGE value="Encapsulation: getter and setter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation: getter and setter" />
+    <MESSAGE value="Interface, when creating contract we should use this instead of abstract class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface, when creating contract we should use this instead of abstract class" />
   </component>
 </project>

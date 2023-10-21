@@ -1,6 +1,7 @@
 package belajar.programming.application;
 
-import belajar.programming.data.Product;
+import belajar.programming.data.Product;  // hanya bisa import public class, set bukan public untuk class yang dipake internal
+//import belajar.programming.data.*; untuk import semua public class
 
 public class Application {
     public static void main(String[] args) {

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Import class from package">
-      <change afterPath="$PROJECT_DIR$/src/belajar/programming/application/LocationApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/programming/data/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/belajar/programming/data/Location.java" afterDir="false" />
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Abstract class: how to use the class">
+      <change afterPath="$PROJECT_DIR$/src/belajar/programming/application/AnimalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/programming/data/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/belajar/programming/data/Cat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +45,9 @@
     "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LocationApp">
-    <configuration name="LocationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.programming.application.LocationApp" />
+  <component name="RunManager" selected="Application.AnimalApp">
+    <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.programming.application.AnimalApp" />
       <module name="belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -59,9 +59,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ManagerApp" />
+    <configuration name="LocationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.programming.application.LocationApp" />
       <module name="belajar-java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="belajar.programming.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalApp" />
         <item itemvalue="Application.LocationApp" />
         <item itemvalue="Application.ProductApp" />
         <item itemvalue="Application.ParentApp" />
         <item itemvalue="Application.PolymorphismApp" />
-        <item itemvalue="Application.ManagerApp" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697911520201</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Abstract class: how to use the class">
+      <created>1697911932627</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697911932627</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +276,7 @@
     <MESSAGE value="Creating packages" />
     <MESSAGE value="Access modifier: package, class, constructor" />
     <MESSAGE value="Import class from package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Import class from package" />
+    <MESSAGE value="Abstract class: how to use the class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract class: how to use the class" />
   </component>
 </project>

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Super constructor, to access method in parent class">
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Super constructor, if parent class constructors, the child must call the parent constructor(s)">
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VicePresident.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VicePresident.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ManagerApp">
+  <component name="RunManager" selected="Application.PolymorphismApp">
     <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ManagerApp" />
       <module name="belajar-java-oop" />
@@ -59,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolymorphismApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismApp" />
+      <module name="belajar-java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShapeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ShapeApp" />
       <module name="belajar-java-oop" />
@@ -68,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolymorphismApp" />
         <item itemvalue="Application.ManagerApp" />
         <item itemvalue="Application.ShapeApp" />
         <item itemvalue="Application.PersonApp" />
@@ -153,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697892560717</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Super constructor, if parent class constructors, the child must call the parent constructor(s)">
+      <created>1697893094827</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697893094827</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +195,7 @@
     <MESSAGE value="Inheritance example" />
     <MESSAGE value="Method overriding" />
     <MESSAGE value="Super constructor, to access method in parent class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Super constructor, to access method in parent class" />
+    <MESSAGE value="Super constructor, if parent class constructors, the child must call the parent constructor(s)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Super constructor, if parent class constructors, the child must call the parent constructor(s)" />
   </component>
 </project>

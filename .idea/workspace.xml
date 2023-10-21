@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Create class constructors">
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Constructor refers to other constructor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PersonApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697890092066</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create class constructors and constructor overloading">
+      <created>1697890341487</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697890341487</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Constructor refers to other constructor">
+      <created>1697890578656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697890578656</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +120,8 @@
     <MESSAGE value="Initial commit Person" />
     <MESSAGE value="Create method" />
     <MESSAGE value="Create class constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create class constructors" />
+    <MESSAGE value="Create class constructors and constructor overloading" />
+    <MESSAGE value="Constructor refers to other constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Constructor refers to other constructor" />
   </component>
 </project>

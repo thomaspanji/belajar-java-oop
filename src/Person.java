@@ -16,6 +16,11 @@ class Person {
         this(null);
     }
 
+//    Person(String name, String address){  // contoh variable shadowing, nama variable sama dengan variable constructor
+//        name = name;
+//        address = address;
+//    }
+
     void sayHello(String paramName) {
         System.out.println("Hello " + paramName + ", My name is " + name );
     }

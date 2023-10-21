@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Variable shadowing example">
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Variable shadowing example and how to solve it using this keyword">
+      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VicePresident.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,14 @@
     "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ManagerApp">
+    <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManagerApp" />
+      <module name="belajar-java-oop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonApp" />
       <module name="belajar-java-oop" />
@@ -53,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManagerApp" />
         <item itemvalue="Application.PersonApp" />
       </list>
     </recent_temporary>
@@ -108,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697890947561</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Variable shadowing example and how to solve it using this keyword">
+      <created>1697891378287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697891378288</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +145,7 @@
     <MESSAGE value="Create class constructors and constructor overloading" />
     <MESSAGE value="Constructor refers to other constructor" />
     <MESSAGE value="Variable shadowing example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Variable shadowing example" />
+    <MESSAGE value="Variable shadowing example and how to solve it using this keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="Variable shadowing example and how to solve it using this keyword" />
   </component>
 </project>

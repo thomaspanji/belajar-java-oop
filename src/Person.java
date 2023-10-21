@@ -9,10 +9,11 @@ class Person {
     }
 
     Person(String paramName) {
-        name = paramName;
+        this(paramName, null); // supaya tidak menulis manual dan refer ke constructor pertama
     }
 
     Person() {
+        this(null);
     }
 
     void sayHello(String paramName) {

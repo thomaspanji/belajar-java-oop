@@ -1,5 +1,7 @@
 package belajar.programming.data;
 
+import java.util.Objects;
+
 public class Product {
     protected String name;
     protected Integer price;
@@ -12,4 +14,16 @@ public class Product {
     public String toString() {
         return "Product Name: " + name + ", Price: " + price;
      }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Product product = (Product) o;
+
+        if (!Objects.equals(name, product.name)) return false;
+        return price.equals(product.price);
+    }
+
 }

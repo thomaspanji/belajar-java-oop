@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Interface default method" />
+    <list default="true" id="79aab0fb-7973-4b6c-b72b-dc53f11c8730" name="Changes" comment="Override method toString() from Object class">
+      <change afterPath="$PROJECT_DIR$/src/belajar/programming/application/EqualsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/programming/data/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/programming/data/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajar/programming/data/ProductApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajar/programming/data/ProductApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocationApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="belajar.programming.application.LocationApp" />
+    <configuration name="EqualsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="belajar.programming.application.EqualsApp" />
       <module name="belajar-java-oop" />
       <extension name="coverage">
         <pattern>
@@ -111,10 +116,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ProductApp" />
+        <item itemvalue="Application.EqualsApp" />
         <item itemvalue="Application.CarApp" />
         <item itemvalue="Application.CategoryApp" />
         <item itemvalue="Application.AnimalApp" />
-        <item itemvalue="Application.LocationApp" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697948379008</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Override method toString() from Object class">
+      <created>1697948680672</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1697948680672</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,6 +338,7 @@
     <MESSAGE value="Interface, when creating contract we should use this instead of abstract class" />
     <MESSAGE value="Interface inheritance" />
     <MESSAGE value="Interface default method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface default method" />
+    <MESSAGE value="Override method toString() from Object class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Override method toString() from Object class" />
   </component>
 </project>
